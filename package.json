@@ -1,0 +1,16 @@
+{
+  "name": "api-registro-login",
+  "version": "1.0.0",
+  "description": "Servicio web REST para registro e inicio de sesion - GA7-220501096-AA5-EV01",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Henry Duvier Gutierrez Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
