@@ -1,6 +1,6 @@
-Enlace del repositorio en GitHub:
+Enlace del repositorio en GitHub (evidencia GA8-220501096-AA2-EV02, modulo movil Android):
 
-https://github.com/duviergutierrezalvarez78-netizen/api-registro-login
+https://github.com/duviergutierrezalvarez78-netizen/GA7-AA5-EV01-registro-login/tree/duviergutierrezalvarez78-netizen-android-login-module
 
-(Reemplaza este enlace por el real despues de crear el repositorio y subir el proyecto,
-siguiendo los pasos del README.md)
+Documentacion del modulo: ANDROID_README.md
+APK compilado: dist/RegistroLoginMovil-debug.apk
